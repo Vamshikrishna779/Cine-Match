@@ -84,6 +84,3 @@ For any queries, feedback, or collaboration opportunities, reach out to:
 ## License  
 This project is licensed under the MIT License.  
 
----
-
-Would you like me to add the image to the README file using Markdown?
