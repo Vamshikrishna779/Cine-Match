@@ -1,6 +1,6 @@
 
 
-#Cine Match - Movie Recommender App  
+# Cine Match - Movie Recommender App  
 
 ## Overview  
 The Cine Match is a machine learning-based system that provides personalized movie recommendations based on user preferences and interactions. It employs collaborative and content-based filtering techniques to enhance the user experience on movie platforms. Built using Python and Streamlit, this project processes movie metadata and user behavior to generate relevant suggestions.  
