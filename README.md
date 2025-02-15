@@ -26,12 +26,11 @@ The Cine Match is a machine learning-based system that provides personalized mov
 ├── .venv                      # Virtual environment (optional)
 ├── screenshots                # Folder for UI screenshots
 ├── template                   # Template files
-├── app                        # Main application directory
-│   ├── app.py                 # Main Streamlit application
-│   ├── movie_dict.pkl         # Serialized movie dataset
-│   ├── similarity.pkl         # Serialized similarity matrix
-│   ├── model.pkl              # Serialized recommendation model
-│   ├── requirements.txt       # Dependencies
+├── app.py                        # Main application
+├── movie_dict.pkl         # Serialized movie dataset
+├── similarity.pkl         # Serialized similarity matrix
+├── model.pkl              # Serialized recommendation model
+├── requirements.txt       # Dependencies
 ├── BDTProject                 # Additional project files
 ├── README.md                  # Project documentation
 ```
