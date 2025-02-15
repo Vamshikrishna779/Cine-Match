@@ -1,11 +1,9 @@
-Here is the updated README file with the project structure based on your uploaded image:  
 
----
 
-# Movie Recommender App  
+#Cine Match - Movie Recommender App  
 
 ## Overview  
-The Movie Recommender App is a machine learning-based system that provides personalized movie recommendations based on user preferences and interactions. It employs collaborative and content-based filtering techniques to enhance the user experience on movie platforms. Built using Python and Streamlit, this project processes movie metadata and user behavior to generate relevant suggestions.  
+The Cine Match is a machine learning-based system that provides personalized movie recommendations based on user preferences and interactions. It employs collaborative and content-based filtering techniques to enhance the user experience on movie platforms. Built using Python and Streamlit, this project processes movie metadata and user behavior to generate relevant suggestions.  
 
 ## Features  
 - Search and browse movies from the dataset  
@@ -77,11 +75,11 @@ Displays an introduction and an overview of the app.
 - Positive user feedback on relevant and engaging recommendations.  
 
 ## Contributors  
-- G Vamshikrishna - [GitHub](https://github.com/Vamshikrishna08)  
+- G Vamshikrishna - [GitHub](https://github.com/Vamshikrishna779)  
 
 ## Contact  
 For any queries, feedback, or collaboration opportunities, reach out to:  
-- GitHub: [Vamshikrishna08](https://github.com/Vamshikrishna08)  
+- GitHub: [Vamshikrishna779](https://github.com/Vamshikrishna779)  
 - LinkedIn: [Your LinkedIn Profile](#)  
 
 ## License  
