@@ -73,9 +73,6 @@ Displays an introduction and an overview of the app.
 - Optimized performance using precomputed similarity matrices.  
 - Positive user feedback on relevant and engaging recommendations.  
 
-## Contributors  
-- G Vamshikrishna - [GitHub](https://github.com/Vamshikrishna779)  
-
 ## Contact  
 For any queries, feedback, or collaboration opportunities, reach out to:  
 - GitHub: [Vamshikrishna779](https://github.com/Vamshikrishna779)  
