@@ -76,7 +76,7 @@ Displays an introduction and an overview of the app.
 ## Contact  
 For any queries, feedback, or collaboration opportunities, reach out to:  
 - GitHub: [Vamshikrishna779](https://github.com/Vamshikrishna779)  
-- LinkedIn: [Your LinkedIn Profile](#)  
+
 
 ## License  
 This project is licensed under the MIT License.  
